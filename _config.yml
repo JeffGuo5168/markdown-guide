@@ -1,8 +1,8 @@
 title: "Markdown Guide"
-url: https://www.markdownguide.org # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
+url: https://jeffguo5168.github.io/markdown-guide/ # jeff's site url
+baseurl: "https://jeffguo5168.github.io/markdown-guide/" # apply repo name if use it under gh-pages branch
 
-repo: http://github.com/mattcone/markdown-guide
+repo: http://github.com/jeffguo5168/markdown-guide
 comments: false
 
 plugins:
