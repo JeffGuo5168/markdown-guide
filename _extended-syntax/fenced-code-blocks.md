@@ -34,7 +34,7 @@ The rendered output looks like this:
 ```
 
 <div class="alert alert-success">
-  <i class="fas fa-lightbulb"></i> <strong>Tip:</strong> Need to display tick marks inside a code block? See <a href="/basic-syntax/#escaping-tick-marks">this section</a> to learn how to escape them.
+  <i class="fas fa-lightbulb"></i> <strong>Tip:</strong> Need to display tick marks inside a code block? See <a href="basic-syntax/#escaping-tick-marks">this section</a> to learn how to escape them.
 </div>
 
 ### Syntax Highlighting

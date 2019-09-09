@@ -15,11 +15,11 @@ description: The comprehensive Markdown reference guide in book format.
 
     <div class="row" style="margin-top:15px; margin-bottom:25px">
       <div class="col-sm-12">
-        <a class="btn btn-success btn-lg" style="margin-right: 20px; margin-top: 5px" href="/assets/book/markdown-guide.pdf">Get the PDF File</a>
+        <a class="btn btn-success btn-lg" style="margin-right: 20px; margin-top: 5px" href="assets/book/markdown-guide.pdf">Get the PDF File</a>
 
-        <a class="btn btn-success btn-lg" style="margin-right: 20px; margin-top: 5px" href="/assets/book/markdown-guide.epub">Get the EPUB File</a>
+        <a class="btn btn-success btn-lg" style="margin-right: 20px; margin-top: 5px" href="assets/book/markdown-guide.epub">Get the EPUB File</a>
 
-        <a class="btn btn-success btn-lg" style="margin-top: 5px" href="/assets/book/markdown-guide.mobi">Get the MOBI File</a>
+        <a class="btn btn-success btn-lg" style="margin-top: 5px" href="assets/book/markdown-guide.mobi">Get the MOBI File</a>
       </div>
     </div>
 
