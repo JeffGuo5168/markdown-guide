@@ -13,7 +13,7 @@ Markdown applications use something called a *Markdown processor* (also commonly
 </div>
 
 <div style="text-align:center; margin:30px 0">
-  <img src="/assets/images/process.png" class="img-fluid" alt="The Markdown Process">
+  <img src="assets/images/process.png" class="img-fluid" alt="The Markdown Process">
 </div>
 
 To summarize, this is a four-part process:
