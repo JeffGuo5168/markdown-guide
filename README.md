@@ -1,4 +1,4 @@
-# Markdown Guide
+# Markdown Guide by Jeff
 
 [![Build Status](https://travis-ci.org/mattcone/markdown-guide.svg?branch=master)](https://travis-ci.org/mattcone/markdown-guide)
 
