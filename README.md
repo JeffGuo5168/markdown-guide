@@ -1,8 +1,8 @@
-# Markdown Guide by Jeff
+# Markdown Guide
 
 [![Build Status](https://travis-ci.org/mattcone/markdown-guide.svg?branch=master)](https://travis-ci.org/mattcone/markdown-guide)
 
-[The Markdown Guide](https://www.markdownguide.org) is a comprehensive Markdown reference designed for novice and intermediate users. It was born out of frustration with existing Markdown references that are incomplete, inadequate, or both.
+[The Markdown Guide](https://jeffguo5168.gihtub.io/markdown-guide) is a comprehensive Markdown reference designed for novice and intermediate users. It was born out of frustration with existing Markdown references that are incomplete, inadequate, or both.
 
 ## Contributing
 
