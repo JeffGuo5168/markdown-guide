@@ -1,6 +1,6 @@
 title: "Markdown Guide"
 url: https://jeffguo5168.github.io/ # jeff's site url
-baseurl: "markdown-guide/" # apply repo name if use it under gh-pages branch
+baseurl: "markdown-guide" # apply repo name if use it under gh-pages branch
 
 repo: https://github.com/jeffguo5168/markdown-guide
 comments: false
